@@ -1,7 +1,7 @@
 # CS-340
 Client/Server Development
 
-# CS-340 Module Eight Journal – Portfolio Reflection
+# Module Eight Journal: Portfolio Item
 
 This repository contains my Project Two dashboard application and the accompanying README documentation created for the CS‑340 course. These artifacts demonstrate my ability to design, implement, and document a database‑driven web application using MongoDB, Python, and the Dash framework.
 
